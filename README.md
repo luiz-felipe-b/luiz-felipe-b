@@ -66,14 +66,6 @@
 
 ###
 
-<h3 align="left">🏗🚧 Past Notable Projects</h3>
-
-###
-
-<h4 align="left">⚔ Dungeon Quest</h4>
-
-###
-
-<p align="left">This was a college project, made with some of my peers.<br><br>Dungeon Quest consists in a party quiz game, similar to Kahoot, but also pulling inspiration from old school RPG, roguelikes and dungeon crawlers from the 90s.</p>
+<p align="left">That's all! Hit me up if you want to chat or know more!</p>
 
 ###
