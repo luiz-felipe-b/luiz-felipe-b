@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Instagram 📸 - @luizzfelipeb_<br>Discord 📞 -  lowefew<br>ps. 👆 use this if you wanna contact me<br>LinkedIn 💼 -  https://www.linkedin.com/in/luiz-felipe-balaminute-dos-santos-881667289/</p>
+<p align="left">Instagram 📸 - @luizzfelipeb_<br>Discord 📞 -  lowefew<br>ps. 👆 use this if you wanna contact me<br>LinkedIn 💼 -  https://www.linkedin.com/in/luiz-felipe-balaminute-dos-santos-881667289/<br>E-mail ✉ - lfbalaminute@hotmail.com</p>
 
 ###
 
